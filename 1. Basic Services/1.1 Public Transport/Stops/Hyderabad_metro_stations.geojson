@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "Hyderabad_metro_stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "S.No.": 1, "Metro Station": "Ameerpet", "Lat": 17.43254, "Long": 78.447222 }, "geometry": { "type": "Point", "coordinates": [ 78.447222, 17.43254 ] } },
+{ "type": "Feature", "properties": { "S.No.": 2, "Metro Station": "Balanagar", "Lat": 17.478017, "Long": 78.422092 }, "geometry": { "type": "Point", "coordinates": [ 78.422092, 17.478017 ] } },
+{ "type": "Feature", "properties": { "S.No.": 3, "Metro Station": "Begumpet", "Lat": 17.437901, "Long": 78.457131 }, "geometry": { "type": "Point", "coordinates": [ 78.457131, 17.437901 ] } },
+{ "type": "Feature", "properties": { "S.No.": 4, "Metro Station": "Bharatnagar", "Lat": 17.467865, "Long": 78.430523 }, "geometry": { "type": "Point", "coordinates": [ 78.430523, 17.467865 ] } },
+{ "type": "Feature", "properties": { "S.No.": 5, "Metro Station": "Erragadda Road", "Lat": 17.462783, "Long": 78.433956 }, "geometry": { "type": "Point", "coordinates": [ 78.433956, 17.462783 ] } },
+{ "type": "Feature", "properties": { "S.No.": 6, "Metro Station": "ESI Hospital", "Lat": 17.447596, "Long": 78.439302 }, "geometry": { "type": "Point", "coordinates": [ 78.439302, 17.447596 ] } },
+{ "type": "Feature", "properties": { "S.No.": 7, "Metro Station": "Habsiguda", "Lat": 17.420378, "Long": 78.540548 }, "geometry": { "type": "Point", "coordinates": [ 78.540548, 17.420378 ] } },
+{ "type": "Feature", "properties": { "S.No.": 8, "Metro Station": "J.N.T.U College", "Lat": 17.499621, "Long": 78.388758 }, "geometry": { "type": "Point", "coordinates": [ 78.388758, 17.499621 ] } },
+{ "type": "Feature", "properties": { "S.No.": 9, "Metro Station": "K.P.H.B. Colony", "Lat": 17.493973, "Long": 78.40173 }, "geometry": { "type": "Point", "coordinates": [ 78.40173, 17.493973 ] } },
+{ "type": "Feature", "properties": { "S.No.": 10, "Metro Station": "Kukatpally", "Lat": 17.486155, "Long": 78.411546 }, "geometry": { "type": "Point", "coordinates": [ 78.411546, 17.486155 ] } },
+{ "type": "Feature", "properties": { "S.No.": 11, "Metro Station": "Mettuguda", "Lat": 17.435981, "Long": 78.519539 }, "geometry": { "type": "Point", "coordinates": [ 78.519539, 17.435981 ] } },
+{ "type": "Feature", "properties": { "S.No.": 12, "Metro Station": "Miyapur", "Lat": 17.502306, "Long": 78.373452 }, "geometry": { "type": "Point", "coordinates": [ 78.373452, 17.502306 ] } },
+{ "type": "Feature", "properties": { "S.No.": 13, "Metro Station": "Moosapet", "Lat": 17.479335, "Long": 78.426323 }, "geometry": { "type": "Point", "coordinates": [ 78.426323, 17.479335 ] } },
+{ "type": "Feature", "properties": { "S.No.": 14, "Metro Station": "Nagole", "Lat": 17.397753, "Long": 78.558502 }, "geometry": { "type": "Point", "coordinates": [ 78.558502, 17.397753 ] } },
+{ "type": "Feature", "properties": { "S.No.": 15, "Metro Station": "NGRI", "Lat": 17.415034, "Long": 78.546245 }, "geometry": { "type": "Point", "coordinates": [ 78.546245, 17.415034 ] } },
+{ "type": "Feature", "properties": { "S.No.": 16, "Metro Station": "Parade Grounds", "Lat": 17.446864, "Long": 78.498936 }, "geometry": { "type": "Point", "coordinates": [ 78.498936, 17.446864 ] } },
+{ "type": "Feature", "properties": { "S.No.": 17, "Metro Station": "Paradise_Khairtabad", "Lat": 17.411458, "Long": 78.471217 }, "geometry": { "type": "Point", "coordinates": [ 78.471217, 17.411458 ] } },
+{ "type": "Feature", "properties": { "S.No.": 18, "Metro Station": "Paradise_Habsiguda", "Lat": 17.405161, "Long": 78.545562 }, "geometry": { "type": "Point", "coordinates": [ 78.545562, 17.405161 ] } },
+{ "type": "Feature", "properties": { "S.No.": 19, "Metro Station": "Prakash Nagar", "Lat": 17.445084, "Long": 78.465826 }, "geometry": { "type": "Point", "coordinates": [ 78.465826, 17.445084 ] } },
+{ "type": "Feature", "properties": { "S.No.": 20, "Metro Station": "Rasoolpura", "Lat": 17.444099, "Long": 78.476448 }, "geometry": { "type": "Point", "coordinates": [ 78.476448, 17.444099 ] } },
+{ "type": "Feature", "properties": { "S.No.": 21, "Metro Station": "S.R Nagar", "Lat": 17.442463, "Long": 78.441738 }, "geometry": { "type": "Point", "coordinates": [ 78.441738, 17.442463 ] } },
+{ "type": "Feature", "properties": { "S.No.": 22, "Metro Station": "Secunderabad", "Lat": 17.439799, "Long": 78.505338 }, "geometry": { "type": "Point", "coordinates": [ 78.505338, 17.439799 ] } },
+{ "type": "Feature", "properties": { "S.No.": 23, "Metro Station": "Stadium ", "Lat": 17.407709, "Long": 78.554204 }, "geometry": { "type": "Point", "coordinates": [ 78.554204, 17.407709 ] } },
+{ "type": "Feature", "properties": { "S.No.": 24, "Metro Station": "Tarnaka", "Lat": 17.43161, "Long": 78.528512 }, "geometry": { "type": "Point", "coordinates": [ 78.528512, 17.43161 ] } },
+{ "type": "Feature", "properties": { "S.No.": 25, "Metro Station": "Uppal", "Lat": 17.40202, "Long": 78.56056 }, "geometry": { "type": "Point", "coordinates": [ 78.56056, 17.40202 ] } }
+]
+}
